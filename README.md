@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/theho/Javascript-chomp.png)](http://travis-ci.org/theho/Javascript-chomp)
 Copyright (C) 2011 by Alex Lee
 
 MIT License (see LICENSE file)
